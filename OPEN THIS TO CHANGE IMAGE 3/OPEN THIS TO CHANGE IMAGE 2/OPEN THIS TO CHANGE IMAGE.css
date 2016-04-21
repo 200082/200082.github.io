@@ -2873,14 +2873,7 @@
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/smoke-person.jpg");
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, bottom center;
-		background-repeat: repeat, no-repeat;
-	}
-
-/* One */
+		background: url("images/overlay.png"), url("../../images/smoke-person.jpg
 
 	#one {
 		background: url("images/overlay.png"), url("../../images/one.jpg");
